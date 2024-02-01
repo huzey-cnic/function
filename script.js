@@ -233,3 +233,5 @@
 // }
 // let newFunc = out()
 // newFunc()
+
+ // huzey cin deneme ve sahibine mesaj etc
