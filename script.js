@@ -235,3 +235,4 @@
 // newFunc()
 
  // huzey cin deneme ve sahibine mesaj etc
+ // send 
